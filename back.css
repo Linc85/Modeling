@@ -1,0 +1,117 @@
+
+/* ----- General CSS ------- */
+body
+{
+
+padding-top: 70px;
+
+	
+}
+
+
+#test
+
+{
+
+	color: white;
+}
+
+#bars
+
+{
+
+	background-color: #a89c6a;
+}
+
+/*          # is for ID ||| . is for CLASS               */
+
+/* ----- THIS IS FOR THE PHOTOS PAGE ------- */
+
+
+
+
+.jumbotron{
+
+	color: #a89c6a;
+	font-weight: 20;
+}
+
+
+#low{
+font-weight: 500;
+font-size: 75px;
+font-family: 'Great Vibes', cursive;
+
+}
+
+
+
+@media (min-width: 576px) {
+  .pictures {
+    
+    columns: 1;
+  }
+}
+
+@media (min-width: 768px) {
+  .pictures {
+    
+    columns: 2;
+  }
+}
+
+
+
+
+/* ----- THIS IS FOR CONTACT PAGE ------- */
+
+.head{
+
+	font-family: 'Merriweather', serif;
+}
+
+#act
+{
+	position: relative;
+	top: 10px;}
+
+
+#feel {  position: relative; 
+	font-style: italic;
+	top: 100px;
+}
+
+#linkb { font-size:22px; }
+
+#num { font-size:22px; 
+    }
+
+#ig { font-size:22px; }
+
+
+/* ----- THIS IS FOR About PAGE ------- */
+
+/*.hope{
+
+	padding-left: 100px;
+}*/
+
+/* ----- THIS IS FOR Exp PAGE ------- */
+
+#id{
+
+	font-family: 'Nunito', sans-serif;}
+
+#time{
+
+	font-family: 'Nunito', sans-serif;}
+
+/* ----- THIS IS FOR Measurements PAGE ------- */
+
+.cur{
+
+	font-family: 'Nunito', sans-serif;}
+.size{
+
+	font-size: 22px;
+}

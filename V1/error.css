@@ -1,0 +1,76 @@
+<div class="box">
+  
+    <img src="model1.jpg" id = "lemon" width ="250px" height ="250px">  
+    <img src="model2.jpg" width ="250px" id = "grape" height ="250px">
+	<img src="model3.jpg" id = "waggle" width ="250px" height ="250px"></div>
+	<p>
+	
+	<div class="apple">
+	<div><img src="model4.jpg" width ="250px" id = "cherry" height ="250px">  
+    <img src="model5.jpg" width ="250px" id = "candy" height ="250px">
+	<img src="model6.jpg" width ="250px" id = "puzzle" height ="250px"></p></div>
+    
+  
+</div>
+
+#lemon
+{ object-fit:scale-down;
+	position: relative; 
+  right: 30px;
+  top:  70px;
+ }
+
+ #grape
+{
+	object-fit:scale-down;
+	position: relative; 
+   top: -520px;
+  right: -450px;
+
+}
+
+#waggle
+{
+	object-fit:scale-down;
+	position: relative; 
+  top: -975px;
+  right: -1000px;
+   
+
+} 
+#candy
+{
+	object-fit:scale-down;
+	position: relative; 
+  right: 30px;
+  top:  -950px;
+
+
+}
+
+
+
+ img {
+	  
+width: 500px;
+height: 500px;
+float: left;
+margin: 2%;
+object-fit:scale-down;
+
+
+} #banner-brand {
+  margin: 24px;
+  width: 50px;
+  height: 46px;
+}
+
+
+
+
+
+
+
+
+
+
