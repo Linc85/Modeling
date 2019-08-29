@@ -86,13 +86,13 @@ font-family: 'Great Vibes', cursive;
 
 
 @media only screen 
-and (min-device-width : 414px) 
-and (max-device-width : 736px) {  #linkb { font-size:18px; }}
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2){
 
+  	#linkb { font-size:8px; }
+  }
 
-@media only screen 
-and (min-device-width : 414px) 
-and (max-device-width : 736px) {  .fa-camera { display: none; }}
 
 
 /* ----- THIS IS FOR About PAGE ------- */
