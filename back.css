@@ -90,7 +90,15 @@ font-family: 'Great Vibes', cursive;
   and (max-device-width: 667px) 
   and (-webkit-min-device-pixel-ratio: 2){
 
-  	#linkb { font-size:8px; }
+  	#linkb { font-size:18px; }
+  }
+
+  @media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2){
+
+  	.fas { display: none; }
   }
 
 
