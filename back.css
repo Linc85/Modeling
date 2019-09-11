@@ -109,10 +109,21 @@ font-family: 'Great Vibes', cursive;
 
 /* ----- THIS IS FOR About PAGE ------- */
 
-/*.hope{
-
-	padding-left: 100px;
+/*@media (min-width: 576px) {
+  .stowad {
+    
+    padding-top: 20px;  }
 }*/
+
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2){
+
+    .stowad { padding-top: 20px; }
+  }
+
+/*<div class="col-md-6 d-none d-md-block pl-5">*/
 
 /* ----- THIS IS FOR Exp PAGE ------- */
 
