@@ -61,6 +61,18 @@ font-family: 'Great Vibes', cursive;
 }
 
 
+@media (max-width: 768px) {
+  .out {
+    
+    width: 500px;
+    height: 400px;  }
+}
+
+.out {
+  margin: 0 auto;
+  border: 10px groove #f0f1f2;
+
+}
 
 
 /* ----- THIS IS FOR CONTACT PAGE ------- */
