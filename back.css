@@ -62,31 +62,6 @@ font-family: 'Great Vibes', cursive;
 
 
 
-/*@media (max-width: 600px) {
-  .out {
-    
-    width: 500px;
-    height: 400px;  }
-}
-
-@media (max-width: 768px) {
-  .out {
-    
-    width: 500px;
-    height: 400px;  }
-}
-@media (max-width: 992px) {
-  .out {
-    
-    width: 500px;
-    height: 400px;  }
-}
-@media (max-width: 1200) {
-  .out {
-    
-    width: 500px;
-    height: 400px;  }
-}*/
 
 .out {
   margin: 0 auto;
@@ -95,8 +70,7 @@ font-family: 'Great Vibes', cursive;
 }
 
 
-/*<video class="out" controls>
-   <source src="imgs/walking.mp4" type="video/mp4"></video>*/
+
 
 
 /* ----- THIS IS FOR CONTACT PAGE ------- */
@@ -151,15 +125,7 @@ font-family: 'Great Vibes', cursive;
     padding-top: 20px;  }
 }
 
-/*@media only screen 
-  and (min-device-width: 320px) 
-  and (max-device-width: 667px) 
-  and (-webkit-min-device-pixel-ratio: 2){
 
-    .stowad { padding-top: 20px; }
-  }*/
-
-/*<div class="col-md-6 d-none d-md-block pl-5">*/
 
 /* ----- THIS IS FOR Exp PAGE ------- */
 
@@ -182,4 +148,3 @@ font-family: 'Great Vibes', cursive;
 }
 
 
-/*width="544" height="500"*/
