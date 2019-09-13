@@ -69,8 +69,17 @@ font-family: 'Great Vibes', cursive;
 
 }
 
+.embed-responsive-item{
+
+  autoplay
+}
 
 
+iframe:focus {
+  outline: none;
+  autoplay
+  autostart 
+}
 
 
 /* ----- THIS IS FOR CONTACT PAGE ------- */
